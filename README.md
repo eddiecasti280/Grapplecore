@@ -41,6 +41,7 @@ Note that there are several differences between the "vibe coded" game and the ga
 1. There is no actual grapple rope planned, this is just added to visualize it.
 2. The level structure is significantly different from the planned game. Think of this as a debug room showing off each of the mechanics. Typically, the next level would be traversed to by "falling" to a certain block.
 3. The bat is not supposed to go through the blocks but due to time constraints, this was just left in.
+4. The grapple "count" is not added since this is just a debug room, assume it will be added in the actual game.
 
 ### Closing
 Thank you for reviewing this submission. Used Cursor for this exercise.
